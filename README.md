@@ -14,7 +14,7 @@ VBScript で書かれているため、Windows 環境。
 
 ## Usage
 
-例えば、コマンドプロンプトであれば
+例えば、コマンドプロンプトからであれば
 
     > CScript calc-mean.vbs <output> <input-1> <input-2> ... <inpput-n>
 
