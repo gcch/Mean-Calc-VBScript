@@ -16,11 +16,11 @@ VBScript で書かれているため、Windows 環境。
 
 例えば、コマンドプロンプトからであれば
 
-    > CScript calc-mean.vbs <output> <input-1> <input-2> ... <inpput-n>
+    > CScript mean-calc.vbs <output> <input-1> <input-2> ... <inpput-n>
 
 のように実行すればよい。
 
-sample フォルダをダウンロードし、そこに calc-mean.vbs を放り込み、calc-mean.cmd を実行すればどうなるかわかるはず。 (data-sample-1.csv、data-sample-2.csv、data-sample-3.csv の 3 ファイルを統合したファイルが output.csv として現れるはず。)
+sample フォルダをダウンロードし、そこに calc-mean.vbs を放り込み、mean-calc.cmd を実行すればどうなるかわかるはず。 (data-sample-1.csv、data-sample-2.csv、data-sample-3.csv の 3 ファイルを統合したファイルが output.csv として現れるはず。)
 
 
 ## Author
