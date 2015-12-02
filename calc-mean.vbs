@@ -7,6 +7,9 @@ Option Explicit
 ' Usage:
 ' calc-mean.vbs <output> <input-1> <input-2> ... <input-n>
 '
+' Copyright (c) 2015 tag
+' http://karat5i.blogspot.jp/
+'
 ' ======================================================================= '
 
 ' delimiter
