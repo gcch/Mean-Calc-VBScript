@@ -20,7 +20,7 @@ VBScript で書かれているため、Windows 環境。
 
 のように実行すればよい。
 
-sample フォルダをダウンロードし、そこに calc-mean.vbs を放り込み、mean-calc.cmd を実行すればどうなるかわかるはず。 (data-sample-1.csv、data-sample-2.csv、data-sample-3.csv の 3 ファイルを統合したファイルが output.csv として現れるはず。)
+sample フォルダをダウンロードし、そこに mean-calc.vbs を放り込み、mean-calc.cmd を実行すればどうなるかわかるはず。 (data-sample-1.csv、data-sample-2.csv、data-sample-3.csv の 3 ファイルを統合したファイルが output.csv として現れるはず。)
 
 
 ## Author
