@@ -2,10 +2,10 @@ Option Explicit
 
 ' ======================================================================= '
 '
-' Mean Calculation Script (calc-mean.vbs)
+' Mean Calculation Script (mean-calc.vbs)
 '
 ' Usage:
-' calc-mean.vbs <output> <input-1> <input-2> ... <input-n>
+' mean-calc.vbs <output> <input-1> <input-2> ... <input-n>
 '
 ' Copyright (c) 2015 tag
 ' http://karat5i.blogspot.jp/
