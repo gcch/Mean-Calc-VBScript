@@ -16,7 +16,7 @@ VBScript で書かれているため、Windows 環境。
 
 例えば、コマンドプロンプトからであれば
 
-    > CScript mean-calc.vbs <output> <input-1> <input-2> ... <inpput-n>
+    > CScript mean-calc.vbs <output> <input-1> <input-2> ... <input-n>
 
 のように実行すればよい。
 
