@@ -1,4 +1,4 @@
-# 平均計算スクリプト (VBScript)
+# 平均値計算スクリプト (VBScript)
 
 ## Description
 
